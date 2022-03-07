@@ -1,0 +1,7 @@
+nomor
+
+kata(indo)
+
+jenis kata(kata kerja, kata benda, kata ganti, kata bilangan, kata sifat, kata penghubung)
+
+kata(inggris)
